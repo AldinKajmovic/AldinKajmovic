@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aldin Kajmović</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 🔭 I’m currently working on [Duga App - LGBTQ Dating app](https://github.com/tonkec/duga_frontend_v2)
 
