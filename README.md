@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aldin Kajmović</h1>
 
 
-- 🔭 I’m currently working on [Duga App - LGBTQ Dating app](https://github.com/tonkec/duga_frontend_v2)
-
-- 🌱 I’m currently learning **Vue.js, Spring Boot**
-
 - 📫 How to reach me **kajmovicaldin@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
